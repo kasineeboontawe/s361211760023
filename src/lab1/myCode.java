@@ -9,7 +9,6 @@ public class myCode  {
         System.out.println("kasinee boontawe");
         System.out.println("361211760023");
         System.out.println("MIT211");
-        System.out.println("rmutsv");
-
+        System.out.println("nan");
     }
 }
