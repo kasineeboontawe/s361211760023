@@ -14,8 +14,8 @@ public class Quiz_2 {
         System.out.println("เลือกการเสียภาษีตามการแยกประเภทสินค้า ?");
         System.out.println("Type 1.10 % ");
         System.out.println("Type 2.15 %");
-        System.out.println("Type 3.17 % ");
-        System.out.println("Type 4.20 % ");
+        System.out.println("Type 3.17 %");
+        System.out.println("Type 4.20 %");
 
         System.out.print("Select: ");
         Select = sc.nextInt();
