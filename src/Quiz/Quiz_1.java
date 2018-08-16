@@ -14,6 +14,7 @@ public class Quiz_1 {
                 System.out.println(i + " ");
             }
         }
+
         System.out.println("The total value is "+total);
         System.out.println("The average value is "+total/count);
         }

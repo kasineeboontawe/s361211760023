@@ -27,7 +27,7 @@ public class Quiz_3 {
         else if (Select == 3)
             total = 1800 * night;
         total = 2100 * night;
-        System.out.println("Total price: " + total + " THB.");
+        System.out.println("Total price: " + total + "THB.");
 
 
 
