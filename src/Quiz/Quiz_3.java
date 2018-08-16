@@ -22,7 +22,7 @@ public class Quiz_3 {
         night = sc.nextInt();
         if (Select == 1)
             total = 600 * night;
-        else if (Select == 2)
+        else if (Select ==2)
             total = 1200 * night;
         else if (Select == 3)
             total = 1800 * night;
